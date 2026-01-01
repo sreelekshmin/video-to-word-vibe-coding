@@ -32,8 +32,6 @@ python video_to_word.py sample.mp4
 ```
 
 ## Output
-
-```md
 The script generates:
 
 - `video_frames.docx`
