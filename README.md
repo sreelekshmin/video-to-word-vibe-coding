@@ -29,11 +29,11 @@ Place your video file in the project folder and run:
 ```bash
 python video_to_word.py sample.mp4
 
-```  
+```
 
-```md
 ## Output
 
+```md
 The script generates:
 
 - `video_frames.docx`
