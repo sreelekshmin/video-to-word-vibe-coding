@@ -1,33 +1,20 @@
 # Video to Word – Vibe Coding Experiment
 
-This repository contains a small Python utility built using **vibe coding with Cursor**.
-
-The goal was simple:  
-convert noisy lab videos into readable test documentation.
-
----
+A small Python utility built using **vibe coding with Cursor** to convert noisy lab videos into readable test documentation.
 
 ## 🧠 What is vibe coding?
-
 Vibe coding is an intent-first way of building software:
-- You describe *what* you want to achieve
+- You describe the outcome
 - AI handles the implementation
-- You only fix what blocks execution
+- You fix only what blocks execution
 
 This experiment follows that approach end to end.
 
----
-
-## 🎯 Problem Statement
-
-In a data lab setup, we capture noisy videos of a physical clock device.  
-Manually reviewing these videos to create test documents is:
-- time-consuming
-- error-prone
-- hard to scale
+## 🎯 Problem
+In a data lab setup, noisy videos of a physical clock device must be reviewed to create test documents.  
+Manual review is time-consuming, error-prone, and hard to scale.
 
 This script automates that process.
-
 ---
 
 ## 🧑‍💻 Vibe Coding with Cursor (From setup to prompt)
