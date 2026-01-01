@@ -22,7 +22,8 @@ Built using **vibe coding** — intent first, implementation by AI.
 ```bash
 pip install -r requirements.txt
 
-## Run
+---
+**## Run**
 
 Place your video file in the project folder and run:
 
